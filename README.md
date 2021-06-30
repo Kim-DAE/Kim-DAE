@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Kim-DAE/Kim-DAE** is a ✨ _Images dataset Classification 10 classes_ ✨ repository.
 
 Here are some basic about my current work:
